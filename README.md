@@ -1,2 +1,3 @@
 # Pegar-Imagenes
-![Practica](imagenes/GOOSEEGG3-2T.jpg)
+![Ganso](imagenes/GOOSEEGG3-2T.jpg)
+![Pistola](imagenes/pistola.png)
